@@ -4,6 +4,8 @@ A highly optimized and fully automated Roblox Lua script for **Blox Fruits**. Th
 
 ✅ **STATUS: Tested and Working Perfectly!**
 
+🔓 **NO KEY REQUIRED — 100% FREE TO USE**
+
 ## 🌟 The Ultimate Automatic Workflow
 
 This script operates on a seamless, zero-interaction loop:
