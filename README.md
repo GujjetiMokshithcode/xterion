@@ -43,6 +43,21 @@ getgenv().AntiAFK           = true   -- Prevent AFK kick
 3. Copy and execute the code from `BloxFruit_AutoFruit.lua`.
 4. The script will inject, display a GUI, and instantly start finding, collecting, storing, and server hopping automatically!
 
+## 🤝 Contributing
+
+This project is open for contribution.
+
+Please follow this flow:
+- Check the open issues and pick one to work on.
+- Create your changes in a separate branch.
+- Open a pull request with a clear description of what you changed.
+
+Basic contribution rules:
+- Keep changes focused and minimal.
+- Test your changes before opening a pull request.
+- Keep code and documentation clear and readable.
+- Be respectful and constructive in discussions and reviews.
+
 ## ⚠️ Disclaimer
 
 - This project is provided for **educational and learning purposes only**, demonstrating Lua automation techniques.
