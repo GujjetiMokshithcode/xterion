@@ -45,5 +45,5 @@ getgenv().AntiAFK           = true   -- Prevent AFK kick
 
 ## ⚠️ Disclaimer
 
-- This project is provided for **educational and learning purposes only**.
-- Use at your own risk. This script involves exploiting and may go against Roblox or Blox Fruits terms of service.
+- This project is provided for **educational and learning purposes only**, demonstrating Lua automation techniques.
+- Use at your own risk. Using automation scripts may go against the Roblox or Blox Fruits terms of service.
