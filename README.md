@@ -42,7 +42,10 @@ getgenv().AntiAFK           = true   -- Prevent AFK kick
 
 1. Open **Blox Fruits** in Roblox.
 2. Open your preferred Lua executor.
-3. Copy and execute the code from `BloxFruit_AutoFruit.lua`.
+3. Copy and execute the following script:
+   ```lua
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/GujjetiMokshithcode/BloxFruitAutoFruitSniper/refs/heads/main/BloxFruit_AutoFruit.lua"))()
+   ```
 4. The script will inject, display a GUI, and instantly start finding, collecting, storing, and server hopping automatically!
 
 ## 🤝 Contributing
